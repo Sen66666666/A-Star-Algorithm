@@ -16,9 +16,11 @@ The A-star (A*) algorithm is a widely used path-finding and graph traversal algo
    - For each neighboring node, it is ignored if it is already in the closed list. If it is not in the open list then calculate its F, G and H values and add it to the open list. If it is already in the open list then update its G value to find a better path.
  - If the target node is added to the closure list, then the path has been found
  - If the open list is empty but the target node is not added to the close list, then the path does not exist.
-## Start Method
+## Starting Method
 1. Make sure gui.py and pathPlanner.py are in the same folder.
-2. Run ‘‘‘python run ’’’
+2. Run
+   ```
+   ```
 
 
      
