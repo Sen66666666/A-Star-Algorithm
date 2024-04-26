@@ -27,6 +27,9 @@ The A-star (A*) algorithm is a widely used path-finding and graph traversal algo
  - Adding an end point
  - Adding obstacles
  - Clicking run
+4. Example:
+   
+   https://github.com/Sen66666666/A-Star-algorrithm/blob/main/Screencast%20from%2026-04-24%2016%3A22%3A07.webm
 
 
      
