@@ -28,10 +28,12 @@ The A-star (A*) algorithm is a widely used path-finding and graph traversal algo
  - Adding obstacles
  - Clicking run
 4. Example:
-<video width="320" height="240" controls>
-  <source src="https://github.com/Sen66666666/A-Star-algorrithm/blob/main/Screencast%20from%2026-04-24%2016%3A22%3A07.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+   
+   - [![Watch the video](https://img.youtube.com/vi/IPKvNBckWOM/0.jpg)](https://www.youtube.com/watch?v=IPKvNBckWOM)
+   - [![Watch the video](https://img.youtube.com/vi/HtAJCAWrwd4/0.jpg)](https://www.youtube.com/watch?v=HtAJCAWrwd4)
+     
+
+  
 
 
 
