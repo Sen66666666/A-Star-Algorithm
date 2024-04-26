@@ -20,7 +20,13 @@ The A-star (A*) algorithm is a widely used path-finding and graph traversal algo
 1. Make sure gui.py and pathPlanner.py are in the same folder.
 2. Run
    ```
+   python gui.py
    ```
+3. How to use gui
+ - Adding a satrting point
+ - Adding an end point
+ - Adding obstacles
+ - Clicking run
 
 
      
